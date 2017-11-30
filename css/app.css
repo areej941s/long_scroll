@@ -1,0 +1,56 @@
+
+body{
+  background-color:#000033;
+}
+
+#canvas{
+  border:2px solid red;
+  width:10000px;
+  height:900px;
+  margin:0 auto;
+  position:relative;
+
+}
+#icon {width:200px;
+  border:1px solid black;
+  position:absolute;
+  top:100px;
+  left:100px;
+  bottom: 0;
+}
+#house2 {width:200px;
+  border:2px solid black;
+  position:absolute;
+  top:100px;
+  left:500px;
+  bottom: 0;
+}
+
+#house3 {width:200px;
+  border:2px solid black;
+  position:absolute;
+  top:100px;
+  left:800px;
+  bottom: 0;
+}
+
+#castle {width:200px;
+  border:2px solid black;
+  position:absolute;
+  top:100px;
+  left:1000px;
+  bottom: 0;
+}
+
+#counter{
+  border:2px solid blue;
+  background-color:blue;
+  color:white;
+  width:200px;
+  height:30px;
+  top:123px;
+  left:90px;
+  position:absolute;
+  z-index:-1;
+  opacity:0.9;
+}
