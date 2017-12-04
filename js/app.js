@@ -21,16 +21,6 @@ window.onscroll = function(){
 
 
 
-icon.style.left = 100 + x  + "px";
-
-  if(x > 900){
-
-  icon.src="img/castle1.png";
-
-  }else{
-
-    icon.src="img/house1.png";
-  }
 
 house2.style.left = 500 + x  + "px";
 

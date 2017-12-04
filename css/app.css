@@ -4,19 +4,37 @@ body{
 }
 
 #canvas{
-  
+
   width:10000px;
   height:800px;
   margin:0 auto;
   position:relative;
 
 }
+#whiterose{left:8400px;
+position: absolute;
+width:630px;
+top:200px;}
 
-#icon {width:280px;
+#rose1{position: absolute;
+  width: 500px;
+  right: 9400px;
+top:260px;
+}
+#bluerose{
+  left:2000px;
+  position: absolute;
+  width:530px;
+  top:260px;}
+
+  ;}
+
+
+#icon {width:180px;
 
   position:absolute;
-  top:360px;
-  left:200px;
+  top:300px;
+  left:100px;
   bottom:0px;
 
 
@@ -46,6 +64,7 @@ body{
   left:1500px;
 
 }
+
 
 #counter{
 
