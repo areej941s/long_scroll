@@ -74,7 +74,7 @@ top:260px;
   height:700px;
   top:100px;
   right:10px;
-  position:fixed;
+  position:absolute;
 
   opacity:0.9;
 
@@ -86,7 +86,7 @@ top:260px;
   height:700px;
   top:100px;
   right:10px;
-  position:fixed;
+  position:absolute;
 
   opacity:0.9;
 
@@ -98,7 +98,7 @@ top:260px;
     height:700px;
     top:100px;
     right:10px;
-    position:fixed;
+    position:absolute;
 opacity:0.9;
 
     }
