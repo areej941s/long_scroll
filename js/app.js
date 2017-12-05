@@ -1,7 +1,8 @@
 $(document).foundation()
 var canvas = document.getElementById("canvas");
-var counter = document.getElementById("counter");
-var icon = document.getElementById("icon");
+
+var cloud1 = document.getElementById("cloud1");
+
 var house2 = document.getElementById("house2");
 var house3 = document.getElementById("house3");
 var house4 = document.getElementById("house4");
@@ -20,11 +21,9 @@ window.onscroll = function(){
 
 
 
-
-
 house2.style.left = 500 + x  + "px";
 
-if(x > 5000){
+if(x > 4000){
 
 house2.src="img/castle2.png";
 

@@ -1,6 +1,7 @@
 
 body{
   background-color:#000033;
+
 }
 
 #canvas{
@@ -11,34 +12,36 @@ body{
   position:relative;
 
 }
+
 #whiterose{left:8400px;
-position: absolute;
+position:absolute;
 width:630px;
 top:200px;}
 
-#rose1{position: absolute;
-  width: 500px;
-  right: 9400px;
+#rose1{position:absolute;
+  width:500px;
+  right:9400px;
 top:260px;
 }
 #bluerose{
-  left:2000px;
+  left:6900px;
   position: absolute;
   width:530px;
-  top:260px;}
+  top:260px;
 
-  ;}
-
-
-#icon {width:180px;
-
-  position:absolute;
-  top:300px;
-  left:100px;
-  bottom:0px;
-
-
+  }
+#periwinkle
+{left:5000px;
+position:absolute;
+width:530px;
+top:260px;
 }
+
+
+
+
+
+
 #house2 {width:280px;
 
   position:absolute;
@@ -64,9 +67,14 @@ top:260px;
   left:1500px;
 
 }
+#redflower{
+  left:3000px;
+  position:absolute;
+  width:530px;
+  top:260px
+  ;}
 
-
-#counter{
+#cloud1{
 
   left:10px;
   color:white;
@@ -90,7 +98,7 @@ top:260px;
 
   opacity:0.9;
 
-  ;}
+  }
   #rightcloud{
     left:1000px;
     color:white;
@@ -105,4 +113,4 @@ opacity:0.9;
     #moon{
 position: fixed
 
-      ;}
+;}
